@@ -25,20 +25,18 @@ Our project uses two works by Klimt as a pair — the first painting (*Adele*) i
 
 Our team will reinterpret two artworks by Gustav Klimt, Portrait of Adele Bloch-Bauer I (1907) and The Kiss (1908), through interactive particle-based visuals built in p5.js. Klimt's richly layered geometric ornamentation, golden spirals, and decorative mosaic surfaces naturally translate into a grid of dynamic shape particles that reconstruct each painting from thousands of individual elements.
 
-Our interactive inspiration comes from two digital works: Interactive Image Explorer on YouWare, which rebuilds a portrait "one circle at a time" through circle-based halftone mapping, and Liquid Fabric, a physics-driven cloth simulation where surfaces ripple and tear in response to user input. Drawing from both, we will create a mosaic particle system that allows users to interactively reveal and switch between the two Klimt paintings, with each transition animated through dissolving and reforming geometric patterns.
+Our interactive inspiration comes from two digital works: Interactive Image Explorer on YouWare, which reconstructs a portrait through circle-based halftone mapping. Varying circle sizes and densities gradually reveal a clear image, while mouse interaction. And Liquid Fabric, a physics-driven cloth simulation where surfaces ripple and tear in response to user input. Drawing from both, we will create a mosaic particle system that allows users to interactively reveal and switch between the two Klimt paintings, with each transition animated through dissolving and reforming geometric patterns.
 
 **Inspiration Source 1**
 
-![The Kiss by Gustav Klimt 1907 gold oil painting couple embracing in golden robes]()
+![Inspiration 1](readmeImages/IMG_7507.jpg) 
+![Inspiration 1](readmeImages/IMG_7508.jpg) 
 
-*Gustav Klimt, The Kiss, 1907–08 — Österreichische Galerie Belvedere, Vienna*
 
 **Inspiration Source 2**
 
-![Refik Anadol Unsupervised MoMA 2022 large scale AI data sculpture flowing colourful organic shapes](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Refik_Anadol_Machine_Hallucinations_Space_Chapter_MoMA_2022.jpg/640px-Refik_Anadol_Machine_Hallucinations_Space_Chapter_MoMA_2022.jpg)
-
-*Refik Anadol, Unsupervised, MoMA 2022 — Wikimedia Commons*
-
+![Inspiration 2](readmeImages/IMG_7509.jpg) 
+![Inspiration 2](readmeImages/IMG_7510.jpg) 
 ---
 
 ## Part 2: Mechanics
