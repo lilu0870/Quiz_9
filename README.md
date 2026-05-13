@@ -11,9 +11,13 @@
 
 Our project uses two works by Klimt as a pair — the first painting (*Adele*) is the starting state, and the second (*The Kiss*) is the hidden destination revealed through interaction.
 
-![Portrait of Adele Bloch-Bauer I by Gustav Klimt 1907 gold leaf oil painting](images/adele.jpg)
+![Portrait of Adele Bloch-Bauer I by Gustav Klimt 1907 gold leaf oil painting](readmeImages/Adele_Bloch-Bauer_I.jpg)
 
 *Gustav Klimt, Portrait of Adele Bloch-Bauer I, 1907 — Neue Galerie, New York*
+
+![Portrait of Adele Bloch-Bauer I by Gustav Klimt 1907 gold leaf oil painting](readmeImages/The-Kiss.jpg)
+
+*Gustav Klimt, The Kiss, 1907 — Neue Galerie, New York*
 
 ---
 
@@ -23,7 +27,7 @@ Our team will reinterpret Gustav Klimt's *Portrait of Adele Bloch-Bauer I* as an
 
 **Inspiration Source 1 — *The Kiss*, Gustav Klimt, 1907–08**
 
-![The Kiss by Gustav Klimt 1907 gold oil painting couple embracing in golden robes](images/kiss.png)
+![The Kiss by Gustav Klimt 1907 gold oil painting couple embracing in golden robes]()
 
 *Gustav Klimt, The Kiss, 1907–08 — Österreichische Galerie Belvedere, Vienna*
 
