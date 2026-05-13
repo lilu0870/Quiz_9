@@ -11,9 +11,13 @@
 
 Our project uses two works by Klimt as a pair — the first painting (*Adele*) is the starting state, and the second (*The Kiss*) is the hidden destination revealed through interaction.
 
-![Portrait of Adele Bloch-Bauer I by Gustav Klimt 1907 gold leaf oil painting](images/adele.jpg)
+![Portrait of Adele Bloch-Bauer I by Gustav Klimt 1907 gold leaf oil painting](readmeImages/Adele_Bloch-Bauer_I.jpg)
 
 *Gustav Klimt, Portrait of Adele Bloch-Bauer I, 1907 — Neue Galerie, New York*
+
+![Portrait of Adele Bloch-Bauer I by Gustav Klimt 1907 gold leaf oil painting](readmeImages/The-Kiss.jpg)
+
+*Gustav Klimt, The Kiss, 1907 — Neue Galerie, New York*
 
 ---
 
@@ -23,7 +27,7 @@ Our team will reinterpret Gustav Klimt's *Portrait of Adele Bloch-Bauer I* as an
 
 **Inspiration Source 1 — *The Kiss*, Gustav Klimt, 1907–08**
 
-![The Kiss by Gustav Klimt 1907 gold oil painting couple embracing in golden robes](images/kiss.png)
+![The Kiss by Gustav Klimt 1907 gold oil painting couple embracing in golden robes]()
 
 *Gustav Klimt, The Kiss, 1907–08 — Österreichische Galerie Belvedere, Vienna*
 
@@ -45,7 +49,8 @@ Rather than breaking the canvas into a uniform grid of identical squares, Member
 
 ### Carol Tao — Audio: Music-Driven Flip Rhythm
 
-The audio mechanic uses FFT-based frequency analysis to drive the rhythm and behaviour of the mosaic tiles. We will use a public-domain classical track such as **Erik Satie’s Gymnopédie No.1**, whose soft dynamics and slow tempo complement Klimt’s ornamental aesthetic. Low-frequency energy triggers large-tile flips, mid-frequency ranges create shimmering pulses, and high-frequency peaks generate fine flickers resembling gold leaf catching light. Louder musical passages accelerate the spread of mosaic transformation, while quiet sections slow or pause the motion. The user does not directly control this mechanic; instead, the music becomes an invisible performer shaping the artwork’s emotional pacing. This mechanic reinforces our vision by giving the golden surface a breathing, ceremonial rhythm that echoes Klimt’s layered luminosity.
+The audio mechanic uses FFT-based frequency analysis to drive the rhythm and behaviour of the mosaic tiles. We will use a public-domain classical track such as **[Erik Satie’s Gymnopédie No.1](https://open.spotify.com/track/0VvRugX9TycXfcEgLPKLpB)**, whose soft dynamics and slow tempo complement Klimt’s ornamental aesthetic. Low-frequency energy triggers large-tile flips, mid-frequency ranges create shimmering pulses, and high-frequency peaks generate fine flickers resembling gold leaf catching light. Louder musical passages accelerate the spread of mosaic transformation, while quiet sections slow or pause the motion. The user does not directly control this mechanic; instead, the music becomes an invisible performer shaping the artwork’s emotional pacing. This mechanic reinforces our vision by giving the golden surface a breathing, ceremonial rhythm that echoes Klimt’s layered luminosity.
+
 
 ---
 
