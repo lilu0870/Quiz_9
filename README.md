@@ -32,12 +32,14 @@ Our interactive inspiration comes from two digital works: Interactive Image Expl
 
 ![Inspiration 1](readmeImages/IMG_7507.jpg) 
 ![Inspiration 1](readmeImages/IMG_7508.jpg) 
-
+[Circle-based Mapping](http://xhslink.com/o/1wdzVf95Whq)
 
 - **Inspiration Source 2**
 
 ![Inspiration 2](readmeImages/IMG_7509.jpg) 
 ![Inspiration 2](readmeImages/IMG_7510.jpg) 
+[Liquid Fabric](http://xhslink.com/o/AtaZVKtxsUq)
+
 ---
 
 ## Part 2: Mechanics
