@@ -45,7 +45,7 @@ Rather than breaking the canvas into a uniform grid of identical squares, Member
 
 ### Carol Tao — Audio: Music-Driven Flip Rhythm
 
-Member 2 will load a background music track — classical or ambient, chosen to match Klimt's ceremonial tone — and use FFT analysis to read the frequency content of the audio in real time. Low-frequency energy (bass) will control the timing of large tile flips, triggering them on heavy beats. High-frequency energy will cause small tiles to flicker and shimmer, resembling gold leaf trembling in light. During loud passages the mosaic will spread faster; during quiet passages it will slow almost to a halt, making the entire transition breathe in sync with the music's emotional arc. This creates a direct connection between the soundtrack and the visual transformation.
+The audio mechanic uses FFT-based frequency analysis to drive the rhythm and behaviour of the mosaic tiles. We will use a public-domain classical track such as **Erik Satie’s Gymnopédie No.1**, whose soft dynamics and slow tempo complement Klimt’s ornamental aesthetic. Low-frequency energy triggers large-tile flips, mid-frequency ranges create shimmering pulses, and high-frequency peaks generate fine flickers resembling gold leaf catching light. Louder musical passages accelerate the spread of mosaic transformation, while quiet sections slow or pause the motion. The user does not directly control this mechanic; instead, the music becomes an invisible performer shaping the artwork’s emotional pacing. This mechanic reinforces our vision by giving the golden surface a breathing, ceremonial rhythm that echoes Klimt’s layered luminosity.
 
 ---
 
