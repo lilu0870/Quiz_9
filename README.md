@@ -23,17 +23,18 @@ Our project uses two works by Klimt as a pair — the first painting (*Adele*) i
 
 ### Vision & Inspiration
 
-Our team will reinterpret two artworks by Gustav Klimt, Portrait of Adele Bloch-Bauer I (1907) and The Kiss (1908), through interactive particle-based visuals built in p5.js. Klimt's richly layered geometric ornamentation, golden spirals, and decorative mosaic surfaces naturally translate into a grid of dynamic shape particles that reconstruct each painting from thousands of individual elements.
+Our team will reinterpret two artworks by Gustav Klimt, *Portrait of Adele Bloch-Bauer I* and *The Kiss*, through interactive particle-based visuals built in p5.js. Klimt's richly layered geometric ornamentation, golden spirals, and decorative mosaic surfaces naturally translate into a grid of dynamic shape particles that reconstruct each painting from thousands of individual elements.
 
-Our interactive inspiration comes from two digital works: Interactive Image Explorer on YouWare, which reconstructs a portrait through circle-based halftone mapping. Varying circle sizes and densities gradually reveal a clear image, while mouse interaction. And Liquid Fabric, a physics-driven cloth simulation where surfaces ripple and tear in response to user input. Drawing from both, we will create a mosaic particle system that allows users to interactively reveal and switch between the two Klimt paintings, with each transition animated through dissolving and reforming geometric patterns.
+Our interactive inspiration comes from two digital works: Interactive Image Explorer on YouWare by Niki, which reconstructs a portrait through circle-based halftone mapping. Varying circle sizes and densities gradually reveal a clear image, while mouse interaction. And Liquid Fabric published on XiaoHongShu by Daodao, a physics-driven cloth simulation where surfaces ripple and tear in response to user input. Drawing from both, we will create a mosaic particle system that allows users to interactively reveal and switch between the two Klimt paintings, with each transition animated through dissolving and reforming geometric patterns.
 
-**Inspiration Source 1**
+
+- **Inspiration Source 1**
 
 ![Inspiration 1](readmeImages/IMG_7507.jpg) 
 ![Inspiration 1](readmeImages/IMG_7508.jpg) 
 
 
-**Inspiration Source 2**
+- **Inspiration Source 2**
 
 ![Inspiration 2](readmeImages/IMG_7509.jpg) 
 ![Inspiration 2](readmeImages/IMG_7510.jpg) 
@@ -56,7 +57,7 @@ The audio mechanic uses FFT-based frequency analysis to drive the rhythm and beh
 
 ### Xiaorong Dang — Time-based: Countdown & Animated Reveal
 
-After the user's first click, Member 3 will start a 30-second countdown timer. If the user stops interacting, already-mosaiced tiles will continue to spread outward automatically at a slow rate. When the countdown reaches zero, any remaining un-flipped tiles will complete in a rapid chain reaction — a cascade that sweeps across the canvas and delivers the final reveal of *The Kiss*. The transition to the completed second painting will use an easing curve (slow-in, fast-out) to give the finale a sense of ceremony and weight. This time structure means the piece always resolves, but rewards active viewers who accelerate it themselves.
+After the user's first click, it will start a 30 second countdown timer. During this period, if the user stops interacting, already revealed mosaic tiles will continue spreading outward automatically at a slow, steady rate driven by *frameCount*. When the countdown reaches zero, any remaining un-flipped tiles will complete in a rapid chain reaction, a cascade that sweeps across the canvas to deliver the final reveal of *The Kiss*. The transition into the completed second painting is smoothed using *lerp()*, applying a slow-in, fast-out easing curve that gives the finale a sense of ceremony and weight. This time-based structure ensures the piece always resolves fully, but rewards active viewers who choose to accelerate it through their own interaction.
 
 ---
 
