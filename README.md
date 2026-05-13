@@ -15,23 +15,25 @@ Our project uses two works by Klimt as a pair — the first painting (*Adele*) i
 
 *Gustav Klimt, Portrait of Adele Bloch-Bauer I, 1907 — Neue Galerie, New York*
 
-![Portrait of Adele Bloch-Bauer I by Gustav Klimt 1907 gold leaf oil painting](readmeImages/The-Kiss.jpg)
+![The-Kiss by Gustav Klimt](readmeImages/The-Kiss.jpg)
 
-*Gustav Klimt, The Kiss, 1907 — Neue Galerie, New York*
+*Gustav Klimt, The Kiss, 1907-1908 — Österreichische Galerie Belvedere, Vienna, Austria*
 
 ---
 
 ### Vision & Inspiration
 
-Our team will reinterpret Gustav Klimt's *Portrait of Adele Bloch-Bauer I* as an interactive mosaic experience that gradually reveals *The Kiss* hidden beneath. The viewer begins facing Adele — still, golden, composed — and through clicking, causes the surface to fragment into mosaic tiles that dissolve the portrait and uncover the embrace beneath. The inspiration for this transformation comes from **Refik Anadol's** data-driven material explorations (*Unsupervised*, MoMA 2022), where surfaces appear to melt and reform, and from **teamLab's** touch-reactive installations where viewers physically unlock imagery through interaction. Klimt's obsession with gold, texture, and decoration makes his work uniquely suited to a tile-based, layered reveal — every mosaic piece feels like a fragment of real gold leaf being turned over.
+Our team will reinterpret two artworks by Gustav Klimt, Portrait of Adele Bloch-Bauer I (1907) and The Kiss (1908), through interactive particle-based visuals built in p5.js. Klimt's richly layered geometric ornamentation, golden spirals, and decorative mosaic surfaces naturally translate into a grid of dynamic shape particles that reconstruct each painting from thousands of individual elements.
 
-**Inspiration Source 1 — *The Kiss*, Gustav Klimt, 1907–08**
+Our interactive inspiration comes from two digital works: Interactive Image Explorer on YouWare, which rebuilds a portrait "one circle at a time" through circle-based halftone mapping, and Liquid Fabric, a physics-driven cloth simulation where surfaces ripple and tear in response to user input. Drawing from both, we will create a mosaic particle system that allows users to interactively reveal and switch between the two Klimt paintings, with each transition animated through dissolving and reforming geometric patterns.
+
+**Inspiration Source 1**
 
 ![The Kiss by Gustav Klimt 1907 gold oil painting couple embracing in golden robes]()
 
 *Gustav Klimt, The Kiss, 1907–08 — Österreichische Galerie Belvedere, Vienna*
 
-**Inspiration Source 2 — Refik Anadol, *Unsupervised*, MoMA 2022**
+**Inspiration Source 2**
 
 ![Refik Anadol Unsupervised MoMA 2022 large scale AI data sculpture flowing colourful organic shapes](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Refik_Anadol_Machine_Hallucinations_Space_Chapter_MoMA_2022.jpg/640px-Refik_Anadol_Machine_Hallucinations_Space_Chapter_MoMA_2022.jpg)
 
