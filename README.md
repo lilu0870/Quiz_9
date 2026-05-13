@@ -57,7 +57,7 @@ After the user's first click, Member 3 will start a 30-second countdown timer. I
 
 ### Liqi Lu — User Input: Ripple Mosaic
 
-Member 4 gives the viewer direct control over the transformation. Each mouse click on the canvas triggers a ripple of mosaic tiles expanding outward from the click point — the tiles nearest the cursor flip first, followed by a wave of surrounding tiles, creating a circular pond-ripple spreading effect. Different regions of the painting respond in visually distinct ways: clicking on Adele's face produces fine, dense tiles; clicking the gold background produces larger, bolder ones. A hover preview effect means that as the cursor moves across the canvas, the tiles immediately beneath it become slightly pixelated, hinting to the viewer that this area can be clicked and inviting further exploration.
+Member 4 gives the viewer direct control over the transformation. Each mouse click on the canvas triggers a ripple of mosaic tiles expanding outward from the click point, the tiles nearest the cursor flip first, followed by a wave of surrounding tiles, creating a circular pond-ripple spreading effect. Each click permanently alters the canvas, allowing the viewer to gradually reconstruct another picture through repeated interaction. Different regions of the painting respond in visually distinct ways. Clicking on facial features generates fine, dense mosaic tiles that preserve detail and delicacy, while clicking on the gold decorative background produces larger, bolder tiles that emphasise abstraction and texture. A hover preview effect means that as the cursor moves across the canvas, the tiles immediately beneath it become slightly pixelated, hinting to the viewer that this area can be clicked and inviting further exploration.
 
 ---
 
